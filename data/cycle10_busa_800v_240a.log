@@ -1,0 +1,138 @@
+Jun 01 08:24:26 pbc805673 chassis-server[600]: 014: temps: ambient:75.00C, capacitor_max:80.00C, dclink_capacitor_1:80.19C, dclink_capacitor_2:25.00C, llc_magnetic_assembly_1:96.78C, llc_magnetic_assembly_2:97.41C, llc_module_1:25.00C, llc_module_2:25.00C, magnetic_assembly_max:97.00C, module_max:79.00C, output_capacitor:25.00C, pfc_boost_inductor:91.82C, pfc_module_l1_l2:77.01C, pfc_module_l2_l3:78.28C, rectifier_module:75.33C
+Jun 01 08:24:32 pbc805673 chassis-server[600]: [busA] release PM5, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 015: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:32 pbc805673 chassis-server[600]: [busA] release PM2, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 012: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:32 pbc805673 chassis-server[600]: [busA] release PM4, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 011: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:32 pbc805673 chassis-server[600]: [busA] release PM1, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 014: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:32 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 0, ready 5, active 5
+Jun 01 08:24:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 200.00kW, idlePower 160.00kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 1, allocatedPower 40.00kW, availableCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 pdserver[982]: bus[busA] available current 50A
+Jun 01 08:24:32 pbc805673 pdserver[982]: bus[busA] available power 40kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 015: pmState: connected(7) --> faulted(2)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 0, ready 4, active 4
+Jun 01 08:24:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 160.00kW, idlePower 120.00kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 1, allocatedPower 40.00kW, availableCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: PM5: charging stopped
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 015: alarms: 00000020
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 015: info: hbstatus 0000005e indicates latched conditions
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 015: set latched alarm reset timer: 5000ms
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 012: pmState: connected(7) --> not ready(5)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 1, ready 3, active 3
+Jun 01 08:24:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 120.00kW, idlePower 80.00kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 1, allocatedPower 40.00kW, availableCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: PM2: charging stopped
+Jun 01 08:24:32 pbc805673 faultmgr[483]: raised urn:fault:powermodule:dc-link-over-voltage @ instance[PM5] (DC link voltage exceeded the allowed limit)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 011: pmState: connected(7) --> not ready(5)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 2, ready 2, active 2
+Jun 01 08:24:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 80.00kW, idlePower 40.00kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 1, allocatedPower 40.00kW, availableCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: PM4: charging stopped
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 014: pmState: connected(7) --> faulted(2)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 2, ready 1, active 1
+Jun 01 08:24:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 40.00kW, idlePower 0.00kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 1, allocatedPower 40.00kW, availableCurrent 50.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: PM1: charging stopped
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 014: alarms: 00000020
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 014: info: hbstatus 0000005e indicates latched conditions
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 014: set latched alarm reset timer: 5000ms
+Jun 01 08:24:32 pbc805673 faultmgr[483]: raised urn:fault:powermodule:dc-link-over-voltage @ instance[PM1] (DC link voltage exceeded the allowed limit)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 016: setTargets(busA, 23.00A, 830.00V, 880.00V-max
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 016: charge update: status 01, output 799.20V 40.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 016: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:32 pbc805673 chassis-server[600]: 016: pmState: connected(7) --> not ready(5)
+Jun 01 08:24:32 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 3, ready 0, active 0
+Jun 01 08:24:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 0.00kW, idlePower 0.00kW
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 0, allocatedPower 40.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: PM3: charging stopped
+Jun 01 08:24:32 pbc805673 pdserver[982]: bus[busA] available current 0A
+Jun 01 08:24:32 pbc805673 chassis-server[600]: chassis-led set to RED. fault-disable: 0, available power: 0.00kW
+Jun 01 08:24:33 pbc805673 chassis-server[600]: 012: pmState: not ready(5) --> ready(6)
+Jun 01 08:24:33 pbc805673 chassis-server[600]: 012: PM2: schedule power down in 60s
+Jun 01 08:24:33 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 2, ready 1, active 0
+Jun 01 08:24:33 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 40.00kW, idlePower 40.00kW
+Jun 01 08:24:33 pbc805673 chassis-server[600]: busA: allocatedPms 1, healthyPms 0, allocatedPower 40.00kW, availableCurrent 0.00A
+Jun 01 08:24:33 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:33 pbc805673 chassis-server[600]: [busA] reserve PM2, maxPower 40.00kW, maxCurrent 100.00A
+Jun 01 08:24:33 pbc805673 chassis-server[600]: modules: present 5, reserved 2, preparing 2, ready 1, active 0
+Jun 01 08:24:33 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 40.00kW, idlePower 0.00kW
+Jun 01 08:24:33 pbc805673 chassis-server[600]: busA: allocatedPms 2, healthyPms 1, allocatedPower 80.00kW, availableCurrent 1.00A
+Jun 01 08:24:33 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:33 pbc805673 chassis-server[600]: chassis-led set to YELLOW. Unit not activated in cloud
+Jun 01 08:24:33 pbc805673 chassis-server[600]: 011: pmState: not ready(5) --> ready(6)
+Jun 01 08:24:33 pbc805673 chassis-server[600]: 011: PM4: schedule power down in 60s
+Jun 01 08:24:33 pbc805673 chassis-server[600]: modules: present 5, reserved 2, preparing 1, ready 2, active 0
+Jun 01 08:24:33 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 80.00kW, idlePower 40.00kW
+Jun 01 08:24:33 pbc805673 chassis-server[600]: busA: allocatedPms 2, healthyPms 1, allocatedPower 80.00kW, availableCurrent 1.00A
+Jun 01 08:24:33 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:33 pbc805673 pdserver[982]: bus[busA] available current 1A
+Jun 01 08:24:33 pbc805673 pdserver[982]: bus[busA] available power 80kW
+Jun 01 08:24:34 pbc805673 chassis-server[600]: 016: pmState: not ready(5) --> ready(6)
+Jun 01 08:24:34 pbc805673 chassis-server[600]: modules: present 5, reserved 2, preparing 0, ready 3, active 0
+Jun 01 08:24:34 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 120.00kW, idlePower 40.00kW
+Jun 01 08:24:34 pbc805673 chassis-server[600]: busA: allocatedPms 2, healthyPms 2, allocatedPower 80.00kW, availableCurrent 1.00A
+Jun 01 08:24:34 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:35 pbc805673 chassis-server[600]: [busA] release: release request
+Jun 01 08:24:35 pbc805673 chassis-server[600]: [busA] release PM2, maxPower 40.00kW, maxCurrent 100.00A
+Jun 01 08:24:35 pbc805673 chassis-server[600]: 012: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:35 pbc805673 chassis-server[600]: 012: PM2: schedule power down in 60s
+Jun 01 08:24:35 pbc805673 chassis-server[600]: [busA] release PM3, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 08:24:35 pbc805673 chassis-server[600]: 016: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 08:24:35 pbc805673 chassis-server[600]: 016: PM3: schedule power down in 60s
+Jun 01 08:24:35 pbc805673 pdserver[982]: bus[busA] available current 0A
+Jun 01 08:24:35 pbc805673 pdserver[982]: bus[busA] available power 0kW
+Jun 01 08:24:35 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 3, active 0
+Jun 01 08:24:35 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 120.00kW, idlePower 120.00kW
+Jun 01 08:24:35 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:35 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:35 pbc805673 chassis-server[600]: 014: request PM event logs at OD 2134.01
+Jun 01 08:24:43 pbc805673 chassis-server[600]: saving log to /data/pm-debug-logs//014//event-2023-06-01-08:24:43.txt
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 014: info: hbstatus 0000005e indicates latched conditions
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 014: reset latched alarms
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 014: set latched alarm reset timer: 5000ms
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 015: info: hbstatus 0000005e indicates latched conditions
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 015: reset latched alarms
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 015: set latched alarm reset timer: 5000ms
+Jun 01 08:24:43 pbc805673 chassis-server[600]: Server refused download: [14] TSDO 80 34 21 00 02 00 01 06
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 014: binary debug logs not available
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 015: request PM event logs at OD 2134.01
+Jun 01 08:24:43 pbc805673 chassis-server[600]: 014: pmState: faulted(2) --> not ready(5)
+Jun 01 08:24:43 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 1, ready 3, active 0
+Jun 01 08:24:43 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 120.00kW, idlePower 120.00kW
+Jun 01 08:24:43 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:43 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:45 pbc805673 chassis-server[600]: 015: pmState: faulted(2) --> not ready(5)
+Jun 01 08:24:45 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 2, ready 3, active 0
+Jun 01 08:24:45 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 120.00kW, idlePower 120.00kW
+Jun 01 08:24:45 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:45 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:46 pbc805673 chassis-server[600]: 014: pmState: not ready(5) --> standby(3)
+Jun 01 08:24:46 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 1, ready 4, active 0
+Jun 01 08:24:46 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 160.00kW, idlePower 160.00kW
+Jun 01 08:24:46 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:46 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:46 pbc805673 chassis-server[600]: 015: pmState: not ready(5) --> standby(3)
+Jun 01 08:24:46 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 5, active 0
+Jun 01 08:24:46 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 200.00kW, idlePower 200.00kW
+Jun 01 08:24:46 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:46 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 08:24:51 pbc805673 chassis-server[600]: saving log to /data/pm-debug-logs//015//event-2023-06-01-08:24:51.txt
+Jun 01 08:24:51 pbc805673 chassis-server[600]: 014: alarms: 00000000
+Jun 01 08:24:51 pbc805673 faultmgr[483]: cleared urn:fault:powermodule:dc-link-over-voltage @ instance[PM1]
+Jun 01 08:24:52 pbc805673 chassis-server[600]: 015: alarms: 00000000
+Jun 01 08:24:52 pbc805673 chassis-server[600]: Server refused download: [15] TSDO 80 34 21 00 02 00 01 06
+Jun 01 08:24:52 pbc805673 chassis-server[600]: 015: binary debug logs not available
+Jun 01 08:24:52 pbc805673 faultmgr[483]: cleared urn:fault:powermodule:dc-link-over-voltage @ instance[PM5]
+Jun 01 08:24:52 pbc805673 chassis-server[600]: 014: cleared latched alarm reset timer
+Jun 01 08:24:52 pbc805673 chassis-server[600]: 015: cleared latched alarm reset timer
+Jun 01 08:24:56 pbc805673 chassis-server[600]: 015: temps: ambient:75.00C, capacitor_max:79.00C, dclink_capacitor_1:79.23C, dclink_capacitor_2:25.00C, llc_magnetic_assembly_1:87.45C, llc_magnetic_assembly_2:94.99C, llc_module_1:25.00C, llc_module_2:25.00C, magnetic_assembly_max:95.00C, module_max:67.00C, output_capacitor:25.00C, pfc_boost_inductor:86.01C, pfc_module_l1_l2:25.00C, pfc_module_l2_l3:25.00C, rectifier_module:67.23C
+Jun 01 08:24:56 pbc805673 chassis-server[600]: thermal-mgr: 58C(Auxps internal temperature) 63C(Dryzone ambient temperature) 53C(HEX outlet temperature) 57C(HEX inlet temperature) 49C(Wetzone ambient temperature) 75C(PM module temperature) 76C(PM magnetic temperature) 82C(PM capacitor temperature) 76C(PM ambient temperature)

@@ -1,0 +1,1420 @@
+Jun 01 04:03:02 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:02 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:04 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:05 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:05 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:05 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:05 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:05 pbc805673 pdserver[982]: bus[busB] available power 195kW
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:05 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:06 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:06 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:06 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:06 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:06 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:07 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:07 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:07 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:07 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:07 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:08 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:09 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:10 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:10 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:10 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:10 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:10 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:11 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:11 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:11 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:11 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:11 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:12 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:12 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:12 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.38A
+Jun 01 04:03:12 pbc805673 pdserver[982]: bus[busB] available current 243.37531280517578A
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:12 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:13 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:13 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:13 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:13 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:13 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:14 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:15 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:15 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:15 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:15 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:15 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:16 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:16 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:16 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.38A
+Jun 01 04:03:16 pbc805673 pdserver[982]: bus[busB] available current 243.37531280517578A
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:16 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:17 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:17 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:17 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:17 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:17 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:18 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:19 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:19 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:19 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.38A
+Jun 01 04:03:19 pbc805673 pdserver[982]: bus[busB] available current 243.37531280517578A
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:19 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:20 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:20 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:20 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:20 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:20 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:21 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:22 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:23 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:23 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:23 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:23 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:23 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:24 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:24 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:24 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.38A
+Jun 01 04:03:24 pbc805673 pdserver[982]: bus[busB] available current 243.37531280517578A
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:24 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:25 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:25 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:25 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:25 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: thermal-mgr: 56C(Auxps internal temperature) 62C(Dryzone ambient temperature) 54C(HEX outlet temperature) 58C(HEX inlet temperature) 49C(Wetzone ambient temperature) 80C(PM module temperature) 76C(PM magnetic temperature) 80C(PM capacitor temperature) 76C(PM ambient temperature)
+Jun 01 04:03:25 pbc805673 chassis-server[600]: thermal-mgr: updated dry-zone speed: fan = 100%
+Jun 01 04:03:25 pbc805673 chassis-server[600]: thermal-mgr: updated wet-zone speeds: fan = 75%, pump = 90%
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:25 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:26 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:26 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:26 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.43A
+Jun 01 04:03:26 pbc805673 pdserver[982]: bus[busB] available current 243.43476104736328A
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: wetzone_fan_tray_3: 70%, 6695 rpm1, 6595 rpm2, 4.20A, 47V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: wetzone_fan_tray_2: 70%, 6646 rpm1, 6694 rpm2, 4.30A, 47V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: wetzone_fan_tray_1: 70%, 6634 rpm1, 6655 rpm2, 4.50A, 47V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: wetzone_pump: 90%, 0 rpm1, 2.20A, 47V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: auxps_fan: 100%, 4347 rpm1, 0.00A, 0V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: dryzone_fan_2: 100%, 5130 rpm1, 0.07A, 0V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: thermal-mgr: dryzone_fan_1: 100%, 5220 rpm1, 0.05A, 0V
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:26 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:27 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:27 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:27 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:27 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:27 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:28 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:28 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:28 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:28 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:28 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:29 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:29 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:29 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:29 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:29 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:30 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:30 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:30 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:30 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:30 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:31 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:31 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:31 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:31 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:31 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:32 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:32 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:32 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.50A
+Jun 01 04:03:32 pbc805673 pdserver[982]: bus[busB] available current 243.4970245361328A
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:32 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:33 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.00kW, idlePower 0.00kW
+Jun 01 04:03:33 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:33 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 195.00kW, availableCurrent 243.44A
+Jun 01 04:03:33 pbc805673 pdserver[982]: bus[busB] available current 243.4375762939453A
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:33 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.76A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 014: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 011: setTargets(busB, 47.36A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 012: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 015: setTargets(busB, 48.96A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 016: setTargets(busB, 46.00A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.30A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 011: setTargets(busB, 46.00A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:34 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:35 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.50kW, idlePower 0.00kW
+Jun 01 04:03:35 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:35 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.50kW, availableCurrent 241.88A
+Jun 01 04:03:35 pbc805673 pdserver[982]: bus[busB] available current 241.87531280517578A
+Jun 01 04:03:35 pbc805673 pdserver[982]: bus[busB] available power 194.5kW
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:35 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:36 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.50kW, idlePower 0.00kW
+Jun 01 04:03:36 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:36 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.50kW, availableCurrent 241.94A
+Jun 01 04:03:36 pbc805673 pdserver[982]: bus[busB] available current 241.9375762939453A
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:36 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:37 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.50kW, idlePower 0.00kW
+Jun 01 04:03:37 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:37 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.50kW, availableCurrent 241.88A
+Jun 01 04:03:37 pbc805673 pdserver[982]: bus[busB] available current 241.87531280517578A
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:37 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:38 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.50kW, idlePower 0.00kW
+Jun 01 04:03:38 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:38 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.50kW, availableCurrent 241.94A
+Jun 01 04:03:38 pbc805673 pdserver[982]: bus[busB] available current 241.9375762939453A
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:38 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:39 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:40 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:41 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.50kW, idlePower 0.00kW
+Jun 01 04:03:41 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:41 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.50kW, availableCurrent 241.88A
+Jun 01 04:03:41 pbc805673 pdserver[982]: bus[busB] available current 241.87531280517578A
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:41 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:42 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.50kW, idlePower 0.00kW
+Jun 01 04:03:42 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:42 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.50kW, availableCurrent 241.94A
+Jun 01 04:03:42 pbc805673 pdserver[982]: bus[busB] available current 241.9375762939453A
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:42 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:43 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.35A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:44 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:45 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:45 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:45 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.62A
+Jun 01 04:03:45 pbc805673 pdserver[982]: bus[busB] available current 241.61967849731445A
+Jun 01 04:03:45 pbc805673 pdserver[982]: bus[busB] available power 194kW
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:45 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:46 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:46 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:46 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.56A
+Jun 01 04:03:46 pbc805673 pdserver[982]: bus[busB] available current 241.5625762939453A
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:46 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:47 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:47 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:47 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.62A
+Jun 01 04:03:47 pbc805673 pdserver[982]: bus[busB] available current 241.61967849731445A
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:47 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:48 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:48 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:48 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.56A
+Jun 01 04:03:48 pbc805673 pdserver[982]: bus[busB] available current 241.5625762939453A
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:48 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:49 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:49 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:49 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.62A
+Jun 01 04:03:49 pbc805673 pdserver[982]: bus[busB] available current 241.61967849731445A
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:49 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:50 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:50 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:50 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.50A
+Jun 01 04:03:50 pbc805673 pdserver[982]: bus[busB] available current 241.50031280517578A
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:50 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:51 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:51 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:51 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.56A
+Jun 01 04:03:51 pbc805673 pdserver[982]: bus[busB] available current 241.5625762939453A
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:51 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:52 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:53 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:53 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:53 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.50A
+Jun 01 04:03:53 pbc805673 pdserver[982]: bus[busB] available current 241.50031280517578A
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:53 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:54 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 194.00kW, idlePower 0.00kW
+Jun 01 04:03:54 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:54 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 194.00kW, availableCurrent 241.62A
+Jun 01 04:03:54 pbc805673 pdserver[982]: bus[busB] available current 241.61967849731445A
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:54 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:55 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:03:55 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:55 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.56A
+Jun 01 04:03:55 pbc805673 pdserver[982]: bus[busB] available current 241.55741500854492A
+Jun 01 04:03:55 pbc805673 pdserver[982]: bus[busB] available power 193.5kW
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: thermal-mgr: 56C(Auxps internal temperature) 62C(Dryzone ambient temperature) 53C(HEX outlet temperature) 57C(HEX inlet temperature) 49C(Wetzone ambient temperature) 80C(PM module temperature) 76C(PM magnetic temperature) 80C(PM capacitor temperature) 76C(PM ambient temperature)
+Jun 01 04:03:55 pbc805673 chassis-server[600]: thermal-mgr: updated dry-zone speed: fan = 100%
+Jun 01 04:03:55 pbc805673 chassis-server[600]: thermal-mgr: updated wet-zone speeds: fan = 80%, pump = 90%
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:55 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:56 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:03:56 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:56 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.62A
+Jun 01 04:03:56 pbc805673 pdserver[982]: bus[busB] available current 241.61967849731445A
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: wetzone_fan_tray_3: 75%, 7072 rpm1, 7007 rpm2, 4.90A, 47V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: wetzone_fan_tray_2: 75%, 7027 rpm1, 6967 rpm2, 5.10A, 47V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: wetzone_fan_tray_1: 75%, 6971 rpm1, 7009 rpm2, 5.40A, 47V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: wetzone_pump: 90%, 0 rpm1, 2.30A, 47V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: auxps_fan: 100%, 4347 rpm1, 0.00A, 0V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: dryzone_fan_2: 100%, 7470 rpm1, 3.89A, 0V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: thermal-mgr: dryzone_fan_1: 100%, 7500 rpm1, 3.90A, 0V
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:56 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:57 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:58 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:03:58 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:58 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.56A
+Jun 01 04:03:58 pbc805673 pdserver[982]: bus[busB] available current 241.5625762939453A
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:58 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:03:59 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:03:59 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:03:59 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.62A
+Jun 01 04:03:59 pbc805673 pdserver[982]: bus[busB] available current 241.61967849731445A
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:03:59 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:04:00 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:04:00 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:00 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.56A
+Jun 01 04:04:00 pbc805673 pdserver[982]: bus[busB] available current 241.5625762939453A
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:00 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:01 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:04:02 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:04:02 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:02 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.56A
+Jun 01 04:04:02 pbc805673 pdserver[982]: bus[busB] available current 241.55741500854492A
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:02 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: modules: present 5, reserved 5, preparing 0, ready 5, active 5
+Jun 01 04:04:03 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 0.00kW
+Jun 01 04:04:03 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:03 pbc805673 chassis-server[600]: busB: allocatedPms 5, healthyPms 5, allocatedPower 193.50kW, availableCurrent 241.56A
+Jun 01 04:04:03 pbc805673 pdserver[982]: bus[busB] available current 241.5625762939453A
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.62A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.39A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:03 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.49A, 830.00V, 880.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 016: setTargets(busB, 45.68A, 830.00V, 880.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 014: setTargets(busB, 49.38A, 830.00V, 880.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 012: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 015: setTargets(busB, 49.47A, 830.00V, 880.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: [busB] release PM5, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 015: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: [busB] release PM2, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 012: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: [busB] release PM4, maxPower 37.00kW, maxCurrent 46.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 011: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: [busB] release PM1, maxPower 40.00kW, maxCurrent 50.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 014: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 0, ready 5, active 5
+Jun 01 04:04:04 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 193.50kW, idlePower 157.00kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 1, allocatedPower 36.50kW, availableCurrent 45.68A
+Jun 01 04:04:04 pbc805673 pdserver[982]: bus[busB] available current 45.68210220336914A
+Jun 01 04:04:04 pbc805673 pdserver[982]: bus[busB] available power 36.5kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 014: pmState: connected(7) --> faulted(2)
+Jun 01 04:04:04 pbc805673 pdserver[982]: bus[busB] available current 45.911949157714844A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 0, ready 4, active 4
+Jun 01 04:04:04 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 153.50kW, idlePower 117.00kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 1, allocatedPower 36.50kW, availableCurrent 45.91A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: PM1: charging stopped
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 014: alarms: 00000020
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 014: info: hbstatus 0000005e indicates latched conditions
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 014: set latched alarm reset timer: 5000ms
+Jun 01 04:04:04 pbc805673 faultmgr[483]: raised urn:fault:powermodule:dc-link-over-voltage @ instance[PM1] (DC link voltage exceeded the allowed limit)
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 011: pmState: connected(7) --> not ready(5)
+Jun 01 04:04:04 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 1, ready 3, active 3
+Jun 01 04:04:04 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 116.50kW, idlePower 80.00kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 1, allocatedPower 36.50kW, availableCurrent 45.91A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: PM4: charging stopped
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 016: setTargets(busB, 20.60A, 830.00V, 880.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 012: pmState: connected(7) --> not ready(5)
+Jun 01 04:04:04 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 2, ready 2, active 2
+Jun 01 04:04:04 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 76.50kW, idlePower 40.00kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 1, allocatedPower 36.50kW, availableCurrent 45.91A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: PM2: charging stopped
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 015: pmState: connected(7) --> faulted(2)
+Jun 01 04:04:04 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 2, ready 1, active 1
+Jun 01 04:04:04 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 36.50kW, idlePower 0.00kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 1, allocatedPower 36.50kW, availableCurrent 45.91A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: PM5: charging stopped
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 015: alarms: 00000020
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 015: info: hbstatus 0000005e indicates latched conditions
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 015: set latched alarm reset timer: 5000ms
+Jun 01 04:04:04 pbc805673 faultmgr[483]: raised urn:fault:powermodule:dc-link-over-voltage @ instance[PM5] (DC link voltage exceeded the allowed limit)
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 016: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:04 pbc805673 chassis-server[600]: 016: pmState: connected(7) --> not ready(5)
+Jun 01 04:04:04 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 3, ready 0, active 0
+Jun 01 04:04:04 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 0.00kW, idlePower 0.00kW
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 0, allocatedPower 36.50kW, availableCurrent 0.00A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: PM3: charging stopped
+Jun 01 04:04:04 pbc805673 pdserver[982]: bus[busB] available current 0A
+Jun 01 04:04:04 pbc805673 chassis-server[600]: chassis-led set to RED. fault-disable: 0, available power: 0.00kW
+Jun 01 04:04:05 pbc805673 chassis-server[600]: 011: pmState: not ready(5) --> ready(6)
+Jun 01 04:04:05 pbc805673 chassis-server[600]: 011: PM4: schedule power down in 60s
+Jun 01 04:04:05 pbc805673 chassis-server[600]: modules: present 5, reserved 1, preparing 2, ready 1, active 0
+Jun 01 04:04:05 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 37.00kW, idlePower 37.00kW
+Jun 01 04:04:05 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:05 pbc805673 chassis-server[600]: busB: allocatedPms 1, healthyPms 0, allocatedPower 36.50kW, availableCurrent 0.00A
+Jun 01 04:04:05 pbc805673 chassis-server[600]: [busB] reserve PM4, maxPower 37.00kW, maxCurrent 100.00A
+Jun 01 04:04:05 pbc805673 chassis-server[600]: modules: present 5, reserved 2, preparing 2, ready 1, active 0
+Jun 01 04:04:05 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 37.00kW, idlePower 0.00kW
+Jun 01 04:04:05 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:05 pbc805673 chassis-server[600]: busB: allocatedPms 2, healthyPms 1, allocatedPower 73.50kW, availableCurrent 1.00A
+Jun 01 04:04:05 pbc805673 pdserver[982]: bus[busB] available current 1A
+Jun 01 04:04:05 pbc805673 pdserver[982]: bus[busB] available power 73.5kW
+Jun 01 04:04:05 pbc805673 chassis-server[600]: chassis-led set to YELLOW. Unit not activated in cloud
+Jun 01 04:04:06 pbc805673 chassis-server[600]: 012: pmState: not ready(5) --> ready(6)
+Jun 01 04:04:06 pbc805673 chassis-server[600]: 012: PM2: schedule power down in 60s
+Jun 01 04:04:06 pbc805673 chassis-server[600]: modules: present 5, reserved 2, preparing 1, ready 2, active 0
+Jun 01 04:04:06 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 77.00kW, idlePower 40.00kW
+Jun 01 04:04:06 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:06 pbc805673 chassis-server[600]: busB: allocatedPms 2, healthyPms 1, allocatedPower 73.50kW, availableCurrent 1.00A
+Jun 01 04:04:06 pbc805673 chassis-server[600]: 014: info: hbstatus 0000005e indicates latched conditions
+Jun 01 04:04:06 pbc805673 chassis-server[600]: 015: info: hbstatus 0000005e indicates latched conditions
+Jun 01 04:04:06 pbc805673 chassis-server[600]: 016: pmState: not ready(5) --> ready(6)
+Jun 01 04:04:06 pbc805673 chassis-server[600]: modules: present 5, reserved 2, preparing 0, ready 3, active 0
+Jun 01 04:04:06 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 113.50kW, idlePower 40.00kW
+Jun 01 04:04:06 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:06 pbc805673 chassis-server[600]: busB: allocatedPms 2, healthyPms 2, allocatedPower 73.50kW, availableCurrent 1.00A
+Jun 01 04:04:07 pbc805673 chassis-server[600]: [busB] release: release request
+Jun 01 04:04:07 pbc805673 chassis-server[600]: [busB] release PM4, maxPower 37.00kW, maxCurrent 100.00A
+Jun 01 04:04:07 pbc805673 chassis-server[600]: 011: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:07 pbc805673 chassis-server[600]: 011: PM4: schedule power down in 60s
+Jun 01 04:04:07 pbc805673 chassis-server[600]: [busB] release PM3, maxPower 36.50kW, maxCurrent 100.00A
+Jun 01 04:04:07 pbc805673 chassis-server[600]: 016: setTargets(off, 0.00A, 0.00V, 0.00V-max
+Jun 01 04:04:07 pbc805673 chassis-server[600]: 016: PM3: schedule power down in 60s
+Jun 01 04:04:07 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 3, active 0
+Jun 01 04:04:07 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 113.50kW, idlePower 113.50kW
+Jun 01 04:04:07 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:07 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:07 pbc805673 pdserver[982]: bus[busB] available current 0A
+Jun 01 04:04:07 pbc805673 pdserver[982]: bus[busB] available power 0kW
+Jun 01 04:04:07 pbc805673 chassis-server[600]: 014: request PM event logs at OD 2134.01
+Jun 01 04:04:15 pbc805673 chassis-server[600]: saving log to /data/pm-debug-logs//014//event-2023-06-01-04:04:15.txt
+Jun 01 04:04:15 pbc805673 chassis-server[600]: Server refused download: [14] TSDO 80 34 21 00 02 00 01 06
+Jun 01 04:04:15 pbc805673 chassis-server[600]: 014: binary debug logs not available
+Jun 01 04:04:15 pbc805673 chassis-server[600]: 015: request PM event logs at OD 2134.01
+Jun 01 04:04:16 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 3, active 0
+Jun 01 04:04:16 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 115.50kW, idlePower 115.50kW
+Jun 01 04:04:16 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:16 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:23 pbc805673 chassis-server[600]: saving log to /data/pm-debug-logs//015//event-2023-06-01-04:04:23.txt
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 014: info: hbstatus 0000005e indicates latched conditions
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 014: reset latched alarms
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 014: set latched alarm reset timer: 5000ms
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 015: info: hbstatus 0000005e indicates latched conditions
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 015: reset latched alarms
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 015: set latched alarm reset timer: 5000ms
+Jun 01 04:04:23 pbc805673 chassis-server[600]: Server refused download: [15] TSDO 80 34 21 00 02 00 01 06
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 015: binary debug logs not available
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 014: pmState: faulted(2) --> not ready(5)
+Jun 01 04:04:23 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 1, ready 3, active 0
+Jun 01 04:04:23 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 115.50kW, idlePower 115.50kW
+Jun 01 04:04:23 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:23 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 014: alarms: 00000000
+Jun 01 04:04:23 pbc805673 faultmgr[483]: cleared urn:fault:powermodule:dc-link-over-voltage @ instance[PM1]
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 015: pmState: faulted(2) --> not ready(5)
+Jun 01 04:04:23 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 2, ready 3, active 0
+Jun 01 04:04:23 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 115.50kW, idlePower 115.50kW
+Jun 01 04:04:23 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:23 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:23 pbc805673 chassis-server[600]: 015: alarms: 00000000
+Jun 01 04:04:23 pbc805673 faultmgr[483]: cleared urn:fault:powermodule:dc-link-over-voltage @ instance[PM5]
+Jun 01 04:04:25 pbc805673 chassis-server[600]: 015: temps: ambient:74.00C, capacitor_max:77.00C, dclink_capacitor_1:76.89C, dclink_capacitor_2:25.00C, llc_magnetic_assembly_1:86.85C, llc_magnetic_assembly_2:94.46C, llc_module_1:25.00C, llc_module_2:25.00C, magnetic_assembly_max:94.00C, module_max:66.00C, output_capacitor:25.00C, pfc_boost_inductor:85.53C, pfc_module_l1_l2:25.00C, pfc_module_l2_l3:25.00C, rectifier_module:66.38C
+Jun 01 04:04:26 pbc805673 chassis-server[600]: 015: pmState: not ready(5) --> standby(3)
+Jun 01 04:04:26 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 1, ready 4, active 0
+Jun 01 04:04:26 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 155.50kW, idlePower 155.50kW
+Jun 01 04:04:26 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:26 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:26 pbc805673 chassis-server[600]: 014: pmState: not ready(5) --> standby(3)
+Jun 01 04:04:26 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 5, active 0
+Jun 01 04:04:26 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 195.50kW, idlePower 195.50kW
+Jun 01 04:04:26 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:26 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:36 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 5, active 0
+Jun 01 04:04:36 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 196.50kW, idlePower 196.50kW
+Jun 01 04:04:36 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:36 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:36 pbc805673 chassis-server[600]: 014: cleared latched alarm reset timer
+Jun 01 04:04:36 pbc805673 chassis-server[600]: 015: cleared latched alarm reset timer
+Jun 01 04:04:46 pbc805673 chassis-server[600]: modules: present 5, reserved 0, preparing 0, ready 5, active 0
+Jun 01 04:04:46 pbc805673 chassis-server[600]: power: maxPower 200.00kW, availablePower 199.00kW, idlePower 199.00kW
+Jun 01 04:04:46 pbc805673 chassis-server[600]: busA: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
+Jun 01 04:04:46 pbc805673 chassis-server[600]: busB: allocatedPms 0, healthyPms 0, allocatedPower 0.00kW, availableCurrent 0.00A
